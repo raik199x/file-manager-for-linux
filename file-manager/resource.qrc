@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>img/ico/c.png</file>
+        <file>img/ico/cpp.png</file>
+        <file>img/ico/dat.png</file>
+        <file>img/ico/doc.png</file>
+        <file>img/ico/docx.png</file>
+        <file>img/ico/exe.png</file>
+        <file>img/ico/file.png</file>
+        <file>img/ico/Folder.png</file>
+        <file>img/ico/html.png</file>
+        <file>img/ico/iconlist.png</file>
+        <file>img/ico/jpg.png</file>
+        <file>img/ico/list.png</file>
+        <file>img/ico/mp3.png</file>
+        <file>img/ico/mp4.png</file>
+        <file>img/ico/odt.png</file>
+        <file>img/ico/pdf.png</file>
+        <file>img/ico/png.png</file>
+        <file>img/ico/py.png</file>
+        <file>img/ico/qt.png</file>
+        <file>img/ico/rar.png</file>
+        <file>img/ico/txt.png</file>
+        <file>img/ico/xls.png</file>
+        <file>img/ico/zip.png</file>
+        <file>img/ico/openvpn.png</file>
+        <file>img/ico/O.png</file>
+        <file>img/ico/h.png</file>
+        <file>img/ico/java.png</file>
+        <file>img/ico/xlsx.png</file>
+        <file>img/ico/xml.png</file>
+        <file>img/ico/csv.png</file>
+        <file>img/ico/sh.jpeg</file>
+        <file>img/ico/json.png</file>
+        <file>img/ico/yml.png</file>
+        <file>img/ico/binary.png</file>
+    </qresource>
+    <qresource prefix="/FIle">
+        <file>img/File/CreateFIle.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>file-manager_rus.qm</file>
+        <file>file-manager_en.qm</file>
+    </qresource>
+</RCC>
