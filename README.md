@@ -7,7 +7,7 @@ All my student works you can find [here](https://github.com/raik199x/BSUIR-labs)
 ---
 
 Features:
-  * Create, delete, copy files
+  * Create, delete, copy, open files
   * Lots of checkers so you wount do something accidently
   * 2 language support (Rus, Eng)
   * 2 methods of sorting files
