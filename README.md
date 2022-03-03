@@ -1,4 +1,4 @@
-# file-manager-for-linux
+# file manager for linux
 
 This project was written as course work in my [university](https://www.bsuir.by/en/)
 
