@@ -13,7 +13,7 @@ Features:
   * 2 methods of sorting files
 
 How can be improved:
-  * add Drug'n'Drop
+  * add Drag'n'Drop
   * more languages
   * add creation of links
   * add function to rename files
